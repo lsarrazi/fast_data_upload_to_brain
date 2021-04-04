@@ -11,7 +11,7 @@
 - Prefer to turn off the **ambiguities** of a sentence explicitly rather than using **hard-to-interpret** specific **vocabulary**.
 (unless it is well-known vocabulary by the target community, or if it's defined previously)
 - Use **examples** so the reader can see and compare **behaviors** without lot of explanations.
-- Use step by step explanations to describes a process.
+- Use **step by step** explanations to describe a process.
 
 ## Examples
 
@@ -23,10 +23,10 @@ Short, slow.
 > 
 > It size could not change.
 > 
-> All elements have the same size in byte.
+> All of its elements have the same size in byte.
 > 
-> Elements are next to each other in memory.
+> Its elements are next to each other in memory.
 > 
-> It is just a pointer
+> It is just a pointer.
 
 Long, fast.
